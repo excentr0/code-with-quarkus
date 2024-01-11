@@ -1,5 +1,7 @@
 # code-with-quarkus
 
+[![CI build](https://github.com/excentro1/code-with-quarkus/actions/workflows/ci.yml/badge.svg)](https://github.com/excentro1/code-with-quarkus/actions/workflows/ci.yml)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
